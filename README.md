@@ -1,14 +1,14 @@
 # 关于 GDG
-GDG 是自由开放的开发者社区，以城市为单位主要组织一些线下线上的技术分享交流活动。GDG 社区活动完全是由志愿者自发、独立组织的活动，我们欢迎任何人参与到我们的日常工作中。更多信息见 [FAQ](https://github.com/gdgbeijing/gdghub/wiki/FAQ) 和 [Wiki](https://github.com/gdgbeijing/gdghub/wiki) 中其它相关文档。
+GDG 是自由开放的开发者社区，以城市为单位主要组织一些线下线上的技术分享交流活动。GDG 社区活动完全是由志愿者自发、独立组织的活动，我们欢迎任何人参与到我们的日常工作中。更多信息见 [FAQ](https://github.com/GDG-Xian/gdghub/wiki/FAQ) 和 [Wiki](https://github.com/GDG-Xian/gdghub/wiki) 中其它相关文档。
 
 和其它开源项目不同，本项目不是开发软件，而是利用 github 的协作功能实现 GDG 社区日常管理和协作，其中 issue 用来处理事情，wiki 用作文档。
 
 # GDG 平台可以为你提供什么？
 GDG 社区是由众多组织者、志愿者、讲师无私奉献多年积累的开发者分享交流平台，已具有良好的口碑和较大的开发者影响力。
 
-大家聚在一起就应该做点什么。如果您特别关注或喜欢某个技术，想要推广、分享它、办这方面活动，而这个技术刚好又是[社区主要关注的技术](https://github.com/gdgbeijing/gdghub/wiki/GDG-%E7%A4%BE%E5%8C%BA%E4%B8%BB%E8%A6%81%E5%85%B3%E6%B3%A8%E5%93%AA%E4%BA%9B%E6%8A%80%E6%9C%AF%EF%BC%9F)，那么 GDG 就是您最好的社区支持平台了。这里您可以聚集一批有相同兴趣的开发者，社区平台可以为您提供 **活动场地、活动赞助、活动宣传、志愿者等** 多方位的支持。
+大家聚在一起就应该做点什么。如果您特别关注或喜欢某个技术，想要推广、分享它、办这方面活动，而这个技术刚好又是[社区主要关注的技术](https://github.com/GDG-Xian/gdghub/wiki/GDG-%E7%A4%BE%E5%8C%BA%E4%B8%BB%E8%A6%81%E5%85%B3%E6%B3%A8%E5%93%AA%E4%BA%9B%E6%8A%80%E6%9C%AF%EF%BC%9F)，那么 GDG 就是您最好的社区支持平台了。这里您可以聚集一批有相同兴趣的开发者，社区平台可以为您提供 **活动场地、活动赞助、活动宣传、志愿者等** 多方位的支持。
 
-我们编写了详细的 [Wiki](https://github.com/gdgbeijing/gdghub/wiki/) 文档，帮助志愿者了解当前社区的工作方式。
+我们编写了详细的 [Wiki](https://github.com/GDG-Xian/gdghub/wiki/) 文档，帮助志愿者了解当前社区的工作方式。
 
 任何愿意做社区志愿者的人可以点击这个 github 项目右上角的 `watch` 按钮，这样您就会收到这里的任何 issue 或 pr 通知。特定的 issue 也有订阅按钮。
 
@@ -35,6 +35,6 @@ GDG 社区是由众多组织者、志愿者、讲师无私奉献多年积累的�
 你可以提一个 issue ，打上 `volunteer` 标签并且告诉我们。请描述做一下您的个人介绍，我们会和您联系，将您加入到我们的志愿者中。
 
 # License
-本项目除特别说明的部分，采用 [BSD 3-clause "New" or "Revised" License](https://github.com/gdgbeijing/gdghub/blob/master/LICENSE) 。
+本项目除特别说明的部分，采用 [BSD 3-clause "New" or "Revised" License](https://github.com/GDG-Xian/gdghub/blob/master/LICENSE) 。
 
 Wiki 和文档采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。文档如没有作者署名，则默认署名为 “GDG社区”。
